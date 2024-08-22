@@ -1,3 +1,7 @@
+# partybussen/laravel-zip
+
+Fork from zanysoft/laravel-zip to add Laravel 11 support.
+
 # zanysoft/laravel-zip
 
 [![Downloads](https://img.shields.io/packagist/dt/zanysoft/laravel-zip.svg?style=flat-square)](https://packagist.org/packages/zanysoft/laravel-zip)
